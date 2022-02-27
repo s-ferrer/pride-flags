@@ -1,6 +1,6 @@
 {
   "name": "pride-flags",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "pride-flags is a Node.js library that will render pride flags as html image",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/s-ferrer/pride-flags.git"
   },
+  "keywords": [
+    "flags",
+    "pride",
+    "img",
+    "png",
+    "html"
+  ],
   "author": "Sara A. Ferrer",
   "license": "MIT",
   "bugs": {
