@@ -18,10 +18,11 @@ function prideFlags(name) {
     rainbow: "./flags/rainbow.png",
     transgender: "./flags/transgender.png",
   };
+
   const flagDivision = document.createElement("div");
   flagDivision.id = "flag";
   const flag = document.body.appendChild(flagDivision);
-  flag.innerHTML = `<img src=${flags[`${name}`]} alt=${name}>`;
+  flag.innerHTML = `<img src=${flags[`${name}`]} alt=${name} pride flag>`;
 
   return flag;
 }
