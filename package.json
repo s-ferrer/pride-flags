@@ -1,0 +1,19 @@
+{
+  "name": "pride-flags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-ferrer/pride-flags.git"
+  },
+  "author": "Sara A. Ferrer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-ferrer/pride-flags/issues"
+  },
+  "homepage": "https://github.com/s-ferrer/pride-flags#readme"
+}
